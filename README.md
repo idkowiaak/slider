@@ -14,7 +14,7 @@ Prosty i nowoczesny slider obrazów stworzony przy użyciu HTML, CSS i JavaScrip
 - Responsywne media queries dla różnych rozdzielczości ekranu.
 
 ## Podgląd
-![Slider Preview](https://slider-project-idkowiaak.netlify.app/)  
+[Slider Preview](https://slider-project-idkowiaak.netlify.app/)  
 
 
 ## Technologie
